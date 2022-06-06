@@ -2,9 +2,31 @@
     margin:0;
 }
 
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.hero-title {
+    font-size: 48px;
+    font-weight:bolder;
+    color:#F9FAF8;
+}
+
+.navbar {
+    display: flex;
+    font-size: 18px;
+    color:#E5E7EB;
+}
+ul {
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    margin-left:auto;
+}
+
 .images {
     width: 100px;
-    heigh: auto;
+    height: auto;
 }
 
 .section1 {
