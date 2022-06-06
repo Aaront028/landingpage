@@ -1,0 +1,20 @@
+* {
+    margin:0;
+}
+
+.images {
+    width: 100px;
+    heigh: auto;
+}
+
+.section1 {
+    background-color: #1F2937;
+}
+
+.section3 {
+    background-color: #E5E7EB;
+}
+
+.footer {
+    background-color: #1F2937;
+}
